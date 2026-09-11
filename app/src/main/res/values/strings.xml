@@ -1,0 +1,4 @@
+<resources>
+    <string name="module_description">Filter group chat notifications in QQ</string>
+    <string name="app_name">QQ私信通知过滤</string>
+</resources>

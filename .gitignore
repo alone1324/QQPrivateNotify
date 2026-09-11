@@ -1,0 +1,11 @@
+.gradle*/
+.android/
+.api-inspect/
+.research/
+diagnostics/
+android-sdk/
+local.properties
+**/build/
+build.log
+*.jks
+*.keystore
