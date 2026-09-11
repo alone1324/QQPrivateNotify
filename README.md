@@ -6,6 +6,7 @@
 
 - 打开或关闭私聊消息通知
 - 打开或关闭群聊消息通知
+- 功能保存实时生效 无需重启作用域应用
 
 ## 构建
 
@@ -15,9 +16,7 @@
 .\build.cmd
 ```
 
-Debug APK 输出到 `app/build/outputs/apk/debug/app-debug.apk`    
-
-仓库不包含 Android SDK、APK、日志或本地配置  
+Debug APK 输出目录 `app/build/outputs/apk/debug/app-debug.apk`    
 
 ## LSPosed 配置
 - **仅支持 API 101 + 版本**  
@@ -26,7 +25,9 @@ Debug APK 输出到 `app/build/outputs/apk/debug/app-debug.apk`
 
 ## 适配
 
-仅在安卓16 QQ版本9.3.50测试正常 其余版本请自行测试 （理论大部分版本都兼容）  
+仅在安卓16 QQ**9.3.50**测试正常  
+
+其余版本请自行测试 （理论大部分版本都兼容）  
 
 ## 注意事项
 
